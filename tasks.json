@@ -1,191 +1,26 @@
 [
     {
+        "id": 1,
         "name": "Write python cli todo app",
         "description": "Make it work before the end of the day",
         "is_active": true,
         "status": "Pending",
-        "date": "2024-12-05 09:06:27.905336"
+        "date": "2024-12-05 12:15:22.331584"
     },
     {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:14:14.922179"
-    },
-    {
+        "id": 2,
         "name": "Write python cli todo again",
         "description": "Make it work before the end of the day",
         "is_active": true,
         "status": "Pending",
-        "date": "2024-12-05 09:14:14.922910"
+        "date": "2024-12-05 12:16:02.535166"
     },
     {
-        "name": "Write python cli todo app",
+        "id": 3,
+        "name": "Write python cli todo again and again",
         "description": "Make it work before the end of the day",
         "is_active": true,
         "status": "Pending",
-        "date": "2024-12-05 09:14:22.447720"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:14:22.448587"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:21:26.174158"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:21:26.175126"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:23:20.634616"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:23:20.635650"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:24:00.271358"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:24:00.272347"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:24:16.301785"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:24:16.302847"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:26:36.416075"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:26:36.417186"
-    },
-    {
-        "name": "Make a todo-list app",
-        "description": "i hope it works ",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:27:07.488835"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:28:22.561372"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:28:22.562710"
-    },
-    {
-        "name": "this is a task",
-        "description": "describe it to me ",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:28:36.513184"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:33:07.150354"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:33:07.151635"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:40:35.136910"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:40:35.138247"
-    },
-    {
-        "name": "This a taks",
-        "description": "dad",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:40:54.160076"
-    },
-    {
-        "name": "Write python cli todo app",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:47:00.217136"
-    },
-    {
-        "name": "Write python cli todo again",
-        "description": "Make it work before the end of the day",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:47:00.218526"
-    },
-    {
-        "name": "mahdi",
-        "description": "mahdiog",
-        "is_active": true,
-        "status": "Pending",
-        "date": "2024-12-05 09:47:06.730489"
+        "date": "2024-12-05 12:16:02.536261"
     }
 ]

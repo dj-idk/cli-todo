@@ -10,6 +10,7 @@ class Task:
         description=None or str,
     ):
         """Intializes the primary attributes of the task object"""
+        self.id = 1
         self.name = name
         self.description = description
         self.is_active = True
