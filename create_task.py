@@ -24,21 +24,24 @@ def create_task(name: str, description: str):
         tasks = []
     # add the task to array and dump it to the file
 
+    # check to see if there are any tasks that have the same name
     if any(task["name"] == name for task in tasks):
         print(f"Task {name} already exists, aborting task creation.")
         return
 
+    # logic for next id
     if tasks:
         existing_ids = {task["id"] for task in tasks}
         next_id = max(existing_ids) + 1
     else:
         next_id = 1
 
+    # instantiate a task object
     task = Task(name, description)
     # Create a dictionary for that task object
     task_dictionary = {
         "id": next_id,
-        "name": task.name,
+        "name": task.name.title(),
         "description": task.description,
         "is_active": task.is_active,
         "status": task.status,
