@@ -1,0 +1,1 @@
+This is a CLI Todo list app written in python using inquirer and the core library.
